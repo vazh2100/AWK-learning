@@ -1,0 +1,1 @@
+awk -f reverse.awk reverse.txt
