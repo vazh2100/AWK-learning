@@ -27,7 +27,7 @@ awk '{ print $1}' input_1.txt input_2.txt
 ```
 
 ```bash
-awk -f program.txt input_1.txt
+awk -f program.awk input_1.txt
 ```
 
 ```bash

@@ -1,0 +1,6 @@
+Beth   21  0
+Dan    19  0
+Kathy  15  10
+Mark   31  20
+Mary   22  22
+Susie  14  18
